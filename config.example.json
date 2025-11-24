@@ -1,0 +1,16 @@
+{
+    "TOKEN": "YOUR_DISCORD_BOT_TOKEN",
+    "prefix": "$",
+    "MONGO_DB": "YOUR_MONGODB_CONNECTION_STRING",
+    "WEBHOOK_URL": "YOUR_DISCORD_WEBHOOK_URL",
+    "cooldown": true,
+    "owner": ["YOUR_DISCORD_USER_ID"],
+    "excel": ["EXCEL_USER_IDS"],
+    "mainmode": ["USER_ID_1", "USER_ID_2"],
+    "premium": ["PREMIUM_USER_ID_1", "PREMIUM_USER_ID_2"],
+    "admin": ["ADMIN_USER_ID_1", "ADMIN_USER_ID_2"],
+    "np": ["NP_USER_ID_1", "NP_USER_ID_2"],
+    "invite": "YOUR_BOT_INVITE_LINK",
+    
+    "baseText": "```ml\n   ⧼ Excel Premium Features ⧽   ```"
+}
